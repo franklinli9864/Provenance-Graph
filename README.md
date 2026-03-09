@@ -14,5 +14,4 @@
 3. 執行：`python src/visualizer.py`
 
 ## 資料集
-loghub
-https://github.com/logpai/loghub/blob/master/Linux/Linux_2k.log
+loghub: https://github.com/logpai/loghub/blob/master/Linux/Linux_2k.log
