@@ -15,3 +15,9 @@
 
 ## 資料集
 loghub: https://github.com/logpai/loghub/blob/master/Linux/Linux_2k.log
+<<<<<<< HEAD
+=======
+
+## 執行成果
+![溯源圖成果展示](assets/Figure_1.png)
+>>>>>>> ca79257 (Add result image to README)
