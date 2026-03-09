@@ -12,3 +12,7 @@
 1. 安裝套件：`pip install -r requirements.txt`
 2. 將 Log 放入 `data/` 資料夾。
 3. 執行：`python src/visualizer.py`
+
+## 資料集
+loghub
+https://github.com/logpai/loghub/blob/master/Linux/Linux_2k.log
